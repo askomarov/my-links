@@ -22,13 +22,18 @@
 - [Ant Design Vue](https://antdv.com/) - Vue UI библиотека по дизайн-системе Ant Design
 - [Inspira UI](https://inspira-ui.com/) - библиотека готовых эффектов для VUE
 
-## Инструменты
-- [SWIPER](https://swiperjs.com/) - современный бесплатный слайдер
-- [GitHub](https://github.com/) - Платформа для хостинга кода
-- [VS Code](https://code.visualstudio.com/) - Редактор кода
-
 
 ## Некоторые примеры
 
 - [Vue + Antd](https://statuesque-naiad-0afa38.netlify.app/) - пример использования vite + vue + antd - переключение темы
 - [CAPS-Grok](https://github.com/askomarov/caps-grok) - js + svg анимация, можно поиграть с цветами (при желании "CAPS" можно заменить на любое svg)
+- [Magick Intro](https://askomarov.github.io/three-hero-slider/) - gsap анимации и не только
+- [THREE ASCII](https://askomarov.github.io/three-ascii/) - картинка символами силами THREE.js
+- [Crystal Balls](https://askomarov.github.io/three-sphere-reflector/) - что-то на THREE.js
+- [gsap intro](https://askomarov.github.io/astro-cursor/) - еще пример gsap анимации hero секции
+- [Astro template](https://askomarov.github.io/astro-template/) - пытался собирать шаблон под астро
+
+
+## Инструменты, полезные ссылки и др
+- [SWIPER](https://swiperjs.com/) - современный бесплатный слайдер
+- [GitHub](https://github.com/) - Платформа для хостинга кода
